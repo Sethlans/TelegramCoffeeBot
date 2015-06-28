@@ -5,7 +5,7 @@ This is just an experimental bot done mainly to learn coffeescript
 Now is usable, foe now is in beta status and is not tested, so yeah...
 
 ## Contributing
-If you want contribute me fork dev (for now), apply changes and PR
+If you want contribute me fork dev (for now), apply changes and PR on a feauture branch
 
 ## Thanks to
 - coffeescript
